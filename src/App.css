@@ -1,0 +1,38 @@
+.App {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: #f0faff; /* Light blue background */
+}
+
+.container {
+  text-align: center;
+  border: 5px solid #a0eaff;
+  padding: 40px; /* Increased padding for a bigger box */
+  border-radius: 10px;
+  max-width: 800px; /* Increased max-width for a larger container */
+  background-color: white;
+}
+
+.logo {
+  width: 200px; /* Increased width for a larger logo */
+  margin-bottom: 20px;
+}
+
+h1 {
+  font-size: 24px;
+  font-weight: bold;
+  color: #000;
+}
+
+h2 {
+  font-size: 18px;
+  color: #555;
+}
+
+p {
+  font-size: 16px;
+  margin: 5px 0;
+  color: #333;
+}
